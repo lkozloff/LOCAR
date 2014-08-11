@@ -1,5 +1,6 @@
 #!/bin/python
 #taken from http://www.yolinux.com/TUTORIALS/PyGTK.html
+#testing forks
 
 import pygtk
 import gtk
